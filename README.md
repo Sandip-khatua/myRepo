@@ -15,8 +15,8 @@ I am a passionate developer with expertise in a wide range of programming langua
 A comprehensive system to manage and mitigate disasters effectively using modern technologies.
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sandip-khatua-8426sa84)
+- [Email](mailto:sandipkumar42425@gmail.com)
 
 ## 🛠 Tools & Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
