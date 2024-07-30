@@ -28,7 +28,7 @@ A comprehensive system to manage and mitigate disasters effectively using modern
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🌐 Connect with me
-- [GitHub](https://github.com/your-github-username)
+- [GitHub](https://github.com/sandip-khatua)
 - [Twitter](https://twitter.com/your-twitter-handle)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandip-khatua&show_icons=true&theme=radical) <!-- Replace with your GitHub username -->
